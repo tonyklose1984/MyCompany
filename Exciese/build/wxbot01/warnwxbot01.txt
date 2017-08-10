@@ -1,0 +1,65 @@
+missing module named resource - imported by posix, test.support, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named posix - imported by os, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named 'org.python' - imported by pickle, xml.sax, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named readline - imported by cmd, code, pdb, wxpy.utils.console, rlcompleter, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+excluded module named _frozen_importlib - imported by importlib, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named _scproxy - imported by urllib.request, future.backports.urllib.request
+missing module named java - imported by platform, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named vms_lib - imported by platform, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named termios - imported by tty, getpass, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named urllib.pathname2url - imported by urllib, pyqrcode
+missing module named urllib.unquote_plus - imported by urllib, requests.compat
+missing module named urllib.getproxies - imported by urllib, requests.compat
+missing module named urllib.getproxies_environment - imported by urllib, requests.compat
+missing module named urllib.proxy_bypass - imported by urllib, requests.compat
+missing module named urllib.urlencode - imported by urllib, requests.compat
+missing module named urllib.quote_plus - imported by urllib, requests.compat
+missing module named urllib.proxy_bypass_environment - imported by urllib, requests.compat
+missing module named urllib.unquote - imported by urllib, asn1crypto._iri, requests.compat
+missing module named urllib.quote - imported by urllib, asn1crypto._iri, requests.compat
+missing module named grp - imported by tarfile, shutil, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, getpass, netrc, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named ce - imported by os, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named org - imported by copy, C:\Users\TonyHu\PycharmProjects\untitled\Exciese\wxbot01.py
+missing module named UserDict - imported by asn1crypto._ordereddict, wxpy.utils.puid_map
+missing module named dummy_thread - imported by urllib3.packages.ordered_dict, future.backports.misc
+missing module named thread - imported by urllib3.packages.ordered_dict, future.backports.misc
+missing module named __builtin__ - imported by future.utils, future.builtins.misc
+missing module named future_builtins - imported by future.builtins.misc
+missing module named _dbm - imported by dbm.ndbm
+missing module named gdbm - imported by anydbm, future.moves.dbm.gnu
+missing module named _gdbm - imported by dbm.gnu
+missing module named dumbdbm - imported by anydbm, future.moves.dbm.dumb
+missing module named anydbm - imported by future.moves.dbm
+missing module named dbhash - imported by anydbm
+missing module named whichdb - imported by future.moves.dbm, anydbm
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named _sysconfigdata - imported by sysconfig
+runtime module named six.moves - imported by cryptography.hazmat.backends.openssl.decode_asn1, cryptography.x509.general_name
+missing module named urlparse - imported by asn1crypto._iri, requests.compat, pyqrcode
+missing module named cStringIO - imported by asn1crypto.core
+missing module named copy_reg - imported by cStringIO
+missing module named StringIO - imported by urllib3.packages.six, six, requests.compat
+missing module named backports - imported by urllib3.packages.ssl_match_hostname
+missing module named Queue - imported by wxpy.api.bot, urllib3.connectionpool, itchat.storage, itchat.components.register
+missing module named 'urllib3.packages.six.moves' - imported by urllib3.exceptions, urllib3.connectionpool, urllib3.connection, urllib3.util.response, urllib3.request, urllib3.response, urllib3.poolmanager
+missing module named _abcoll - imported by urllib3.packages.ordered_dict
+missing module named socks - imported by urllib3.contrib.socks
+missing module named _winreg - imported by requests.utils
+missing module named Cookie - imported by requests.compat
+missing module named cookielib - imported by requests.compat
+missing module named urllib2 - imported by requests.compat
+missing module named simplejson - imported by requests.compat
+missing module named bpython - imported by wxpy.utils.console
+missing module named 'IPython.terminal' - imported by wxpy.utils.console
+missing module named IPython - imported by wxpy.utils.console
+missing module named cpngfilters - imported by png
+missing module named HTMLParser - imported by itchat.utils, wxpy.api.messages.message
